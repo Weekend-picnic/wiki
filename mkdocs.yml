@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Weekend Picnic Wiki
+site_url: https://weekend-picnic.github.io/wiki
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/logo.png
